@@ -1,6 +1,6 @@
 # School_District_Analysis
-Overview of the school district analysis: Explain the purpose of this analysis.
-
+### Overview
+The purpose of this analysis was to create a disctrict analysis that showed statetasting results. The results showed an anomaly with Thomas High School thus a reanalysis was done to display any changes with the results. 
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 How is the district summary affected?
