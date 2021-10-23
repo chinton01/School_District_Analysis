@@ -14,9 +14,18 @@ Scores by school type
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 Images:
 ![thomas_hs_summary](https://user-images.githubusercontent.com/90741799/137820255-c4bc07c7-3980-4133-be55-428a56a6d35c.png)
-![93 185](https://user-images.githubusercontent.com/90741799/137820698-1ed12295-a220-4e28-b2a7-2a54c0388f28.png)
-![97](https://user-images.githubusercontent.com/90741799/137820800-a31ac897-cd14-4fd9-9db5-c33e113a2da9.png)
-![90](https://user-images.githubusercontent.com/90741799/137820874-7ab0fc3c-9b6c-45c1-99ab-bf0b25c50c06.png)
+For ten-twelfth grade: passing math ![93 185](https://user-images.githubusercontent.com/90741799/137820698-1ed12295-a220-4e28-b2a7-2a54c0388f28.png)
+ 10-12th passing reading percentage: ![97](https://user-images.githubusercontent.com/90741799/137820800-a31ac897-cd14-4fd9-9db5-c33e113a2da9.png)
+Overall Passing math & reading 10-12th: ![90](https://user-images.githubusercontent.com/90741799/137820874-7ab0fc3c-9b6c-45c1-99ab-bf0b25c50c06.png)
+9thGrade: ![9th_grade_data](https://user-images.githubusercontent.com/90741799/138536493-e3ab9c8a-515c-4730-bf2a-1f6738a3926a.png)
+![school_summary_before](https://user-images.githubusercontent.com/90741799/138536613-8e863bad-84a6-4279-b421-415e1fc7fc9e.png)
+![school_summary_after](https://user-images.githubusercontent.com/90741799/138536672-e9bec74a-182c-4d4b-8601-ff2880bad61f.png)
+![scores_by_school_size](https://user-images.githubusercontent.com/90741799/138536712-c6ff12b7-f981-4887-bf55-4fb6e3004ed7.png)
+![scores_by_school_spending](https://user-images.githubusercontent.com/90741799/138536777-48806776-b40f-40f5-8a60-fbccbec873c0.png)
+![scores_by_school_type](https://user-images.githubusercontent.com/90741799/138536913-358fa0b2-e68a-419d-bd6a-0a3f232b124f.png)
+MathScores by grade: ![math_score_by_grade](https://user-images.githubusercontent.com/90741799/138537125-fd3ed4c8-2ae3-4c4e-899f-46f63a36f401.png)
+Reading Scores by grade: ![reading_scores_by_grade](https://user-images.githubusercontent.com/90741799/138537182-e835b240-31ae-43a2-ba0c-3dc8324242e1.png)
+Affected District Summary: ![district_summary_NANS_ths](https://user-images.githubusercontent.com/90741799/138537401-18b12f99-be25-488f-ba50-09fc0032de8f.png)
 
 
 Step 12- 14:
